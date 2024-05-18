@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
-<h3 align="center">A highly motivated backend engineer from India</h3>
+<h3 align="center">An inquisitive backend engineer from India</h3>
 
 - 💬 Ask me about **Python and web-scraping**
 
