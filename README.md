@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 <h3 align="center">An inquisitive backend engineer from India</h3>
 
-- 💬 Ask me about **Python and web-scraping**
+- 💬 Ask me about **Spring Boot and web-scraping**
 
 - 📫 How to reach me **write.aditya28@gmail.com**
 
